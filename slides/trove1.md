@@ -6,12 +6,16 @@
 - GLAM is an acronym for "galleries, libraries, archives, and museums"
 - GLAMs preserve and make accessible primary sources valuable for researchers
 <br />
+<br />
 
 ###### What is Trove?
+
 - "Trove is a Library Database Aggregator"
 - Launched in August 2008
 - "Find and Get" functions (e.g. viewing digitally, borrowing, buying, copying)
-<br />
+
+<img src=https://trove.nla.gov.au/static/4aa2a78/img/trove-logo.png height="120px">
+
 Note:
 - GLAM: galleries, libraries, archives, and museums ... and more as we'll see
 - They preserve primary sources
