@@ -18,6 +18,7 @@
 <img src=slides/img/stumbles_small.jpg height="120px">
 
 Note:
-welcome for July
-EW space
-coc
+- welcome for July
+- EW space, drinks, toilets
+- coc
+- sponsors... and people like you

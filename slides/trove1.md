@@ -11,8 +11,12 @@
 - "Trove is a Library Database Aggregator"
 - Launched in August 2008
 - "Find and Get" functions (e.g. viewing digitally, borrowing, buying, copying)
-- The service is built using a variety of open source software.[40][41]
 <br />
+Note:
+- GLAM: galleries, libraries, archives, and museums ... and more as we'll see
+- They preserve primary sources
+- TROVE: started in 2007 as Australian Newspaper Digitisation Program by National Library of Australia
+- allows searching for those primary sources
 
 ---
 
@@ -21,12 +25,16 @@
 Kinds of records held in collection databases such as:
 - Libraries Australia
 - Picture Australia
-- Music Australia
+- <span class="fragment highlight-green">Music Australia</span>
 - Register of Australian Archives and Manuscripts
-- Australia Dancing
+- <span class="fragment highlight-green">Australia Dancing</span>
 - Australian Research Online
-- PANDORA & Australian Government Web Archive
 - Australian Dictionary of Biography
+- <span class="fragment highlight-green">PANDORA & Australian Government Web Archive</span>
+- Flicker
+Note:
+- |3| Collections from all over the place including Music Australia, Australia Dancing and Australian Government Web Archive
+- Items in the collection date back as far as 1803 (or earlier)
 
 ---
 
@@ -37,14 +45,17 @@ Kinds of records held in collection databases such as:
 - Diaries
 - People: biographical information about people and organisations
 - Journals: academic periodicals.
-- Maps
-- Music, sound and videos: sheet music, audio recordings and transcripts from many Radio National programs
+- <span class="fragment highlight-green">Maps</span>
+- <span class="fragment highlight-green">Music, sound and videos: sheet music, audio recordings and transcripts from many Radio National programs</span>
 - Newspapers: digitised historic newspapers from the "Australian Newspapers" website
-- Pictures: digitised photographs, drawings, posters, postcards from the previous "Pictures Australia" website
-- Websites: the PANDORA web-archiving service
+- <span class="fragment highlight-green">Pictures: digitised photographs, drawings, posters, postcards from the previous "Pictures Australia" website</span>
+- <span class="fragment highlight-green">Websites: the PANDORA web-archiving service</span>
 - Government Gazettes: official publications written notifying the public of government business
 - Lists: allows users of to make their own compilations of items found in Trove
-
+Note:
+- |4| Lots of record types if you are interested in something specific
+- Text and Newspapers you'd expect to more exotic things like maps, music & recordings, pictures and now even websites
+- (mostly government gazettes)
 
 ---
 
@@ -56,6 +67,12 @@ Kinds of records held in collection databases such as:
 - Review transcripts and scanned documents
 - Tagging Images
 - APIs and Images
+Note:
+- Get started
+- Create lists, comments, tagging
+- Transcript reviews
+- Tagging images
+- Discuss some more advanced features
 
 ---
 
@@ -67,6 +84,26 @@ Kinds of records held in collection databases such as:
 - Confirm email
 - Good to go
 - General Guide: [http://help.nla.gov.au/trove/using-trove](http://help.nla.gov.au/trove/using-trove)
+Note:
+- The 'usual 3': UN, PW & Email
+- Be human, and Confirm email
+- ...Top correctors received Australia Day Awards
+
+---
+
+## Trove is Built of Open Source
+<hr />
+
+- SOLR 14
+- Apache Lucene
+- mySQL
+- Nginx
+- Jetty
+- Java Server Pages
+- Restlet
+- FreeMarker
+Note:
+- OS: SOLR 14... Apache Lucene (Apache web server written in Java) for the database and web archive... with mySQL handling the data links... Nginx as a front end reverse proxy... Jetty as the web server for the UI... and UIs written in Java Server Pages, Restlet and FreeMarker
 
 ===
 
@@ -78,24 +115,34 @@ Kinds of records held in collection databases such as:
 
 - Comments
   - Guide: [http://help.nla.gov.au/trove/using-trove/creating-contributing/adding-tags-comments](http://help.nla.gov.au/trove/using-trove/creating-contributing/adding-tags-comments)
+Note:
+- Create custom lists for yourself or others to use.
+- eg: Todays edits, cricketers, object type, materials used...
+- Comments can be your own personal observations or feelings
 
 ---
 
-## Transcripts and comments
+## Transcripts and More Comments
 <hr />
 
-- Link: [https://trove.nla.gov.au/article/result?q=](https://trove.nla.gov.au/article/result?q=)
 - Guide: [http://help.nla.gov.au/trove/digitised-newspapers/text-correction-guidelines](http://help.nla.gov.au/trove/digitised-newspapers/text-correction-guidelines)
+- Link: [https://trove.nla.gov.au/article/result?q=](https://trove.nla.gov.au/article/result?q=)
+Note:
+- Correcting OCR
+- Comments are a useful place for notes and corrections (or editorials)
 
 ---
 
-## Tags
+## Tagging Images
 <hr />
 
+- Guide: [http://help.nla.gov.au/trove/using-trove/creating-contributing/adding-tags-comments](http://help.nla.gov.au/trove/using-trove/creating-contributing/adding-tags-comments)
+- Relatively new feature
 - An easy way to contribute to the picture archives
 - Link: https://trove.nla.gov.au/picture/result?q
-- Relatively new feature
-- Guide: [http://help.nla.gov.au/trove/using-trove/creating-contributing/adding-tags-comments](http://help.nla.gov.au/trove/using-trove/creating-contributing/adding-tags-comments)
+Note:
+- Tagging allows "non textual" information to become more searchable and accessible
+- A simple way to en-richen the image database and make aspects of the objects more accessible
 
 ===
 
@@ -108,11 +155,15 @@ Kinds of records held in collection databases such as:
  - Search URLs: [https://trove.nla.gov.au/general/searchURLs](https://trove.nla.gov.au/general/searchURLs)
  - Gallery: [http://help.nla.gov.au/trove/building-with-trove/application-gallery](http://help.nla.gov.au/trove/building-with-trove/application-gallery)
 
-- Images
+- Contribute your own Images
   - Link: [https://trove.nla.gov.au/recentFlickrPhotos](https://trove.nla.gov.au/recentFlickrPhotos)
   - Managed through Flickr
-  - Closing downs / Grand openings or Firsts
+  - Closing downs / Grand openings ... Firsts and Lasts
+  - Historic events
   - Historic locations or equipment
+Note:
+- Cool API for hackathons
+- Images are more likely to be useful than I'd thought
 
 ---
 
@@ -120,3 +171,6 @@ Kinds of records held in collection databases such as:
 <hr />
 
 Trove: [https://trove.nla.gov.au](https://trove.nla.gov.au)
+Note:
+- Q & A
+- ... or on to the gnews
