@@ -5,7 +5,7 @@
 
 <img src=slides/img/FSM_logo.png width="20%">
 
-## Free Software and The Commons
+## Free Software and The Commons Clause
 
 ### (the big consequences of making a tiny, tiny change)
 
