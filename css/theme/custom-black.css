@@ -97,9 +97,9 @@ hr {
 .reveal ol,
 .reveal dl,
 .reveal ul {
-  display: inline-block;
+  display: inline-box;
   text-align: left;
-  margin: 0 0 0 1em; }
+  margin: 0 0 0 3em; }
 
 .reveal ol {
   list-style-type: decimal; }
