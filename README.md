@@ -2,7 +2,7 @@
 
 
 
-# Contribute to Trove
+# Free Software and The Commons Clause
 
 Presentation slides for Free Software Melbourne presentation on Free Software and The Commons Clause.
 
