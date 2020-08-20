@@ -1,5 +1,5 @@
 
-## F/LOSS, Creative Commons and the Digital Commons
+## F/LOSS, Creative Commons And The Digital Commons
 <hr />
 
 ### Pioneers Of Digital Commons
@@ -12,7 +12,10 @@ Wikipedia
 
 Open Hardware
 
-### A Growing Modern Interpretation
+<br />
+<br />
+
+### A Popular Modern Interpretation
 
 The Internet
 
@@ -30,7 +33,7 @@ Note:
 
 ===
 
-## Tragedy of the Digital Commons
+## Tragedy Of The Digital Commons
 <hr />
 
 ### The Tragedies
@@ -42,7 +45,7 @@ Corruption of communication
 
 Anti-Competitive Behavior
 
-### "Commoning" As A Process To Stop The Tragedy
+### "Commoning" As A Process To Stop A Tragedy
 
 Process of coming together to manage such resources
 
@@ -64,13 +67,13 @@ Note:
 
 ===
 
-## Sidenote - Source-available Software
+## Sidenote - Source-Available Software
 <hr />
 
-### Source-available model
+### The Source-Available Model
 The "One (or two) Freedoms"
 
-Often included in distributions or avaliable on request
+Often included in distributions or available on request
 
 Proprietary compatibility
 
@@ -118,13 +121,19 @@ Note:
 
 ## Commons Clause - How Did It Happen?
 <hr />
+<br />
+<br />
 
 CEOs and Chief Counsils meet
+<br />
+<br />
 
 Commision Heather J. Meeker to author the licence
+<br />
+<br />
 
 Redis Labs
-
+  
 Note:
 - Who wants this? in 2018 CEOs and chief counsels of two dozen at-scale open-source companies, some of them public, meet to talk about what to do about Amazon
 - August 2018 Redis Labs announced their decision to add this rider - Apache + Commons Clause
@@ -133,14 +142,22 @@ Note:
 
 ===
 
-## An appeal to Authority
+## An Appeal To Authority
 <hr />
+<br />
+<br />
 
 Heather J. Meeker is a respected attorney
+<br />
+<br />
 
 With a History in open source software licensing and strategy
+<br />
+<br />
 
 Source licenses provide inherent authority
+<br />
+<br />
 
 Drafted in the spirit of a copyleft licence
 
@@ -156,14 +173,24 @@ Note:
 
 ## At Least It's Not Proprietary
 <hr />
+<br />
+<br />
 
 Not intended to replace licenses
+<br />
+<br />
 
 Fulfils urgent business requirements without resorting to fully "closing source"
+<br />
+<br />
 
 Better than nothing
+<br />
+<br />
 
 As good as we can do for now
+<br />
+<br />
 
 Note:
 - This Clause is not intended to replace licenses of existing open source projects in general, but to be used by specific projects to satisfy urgent business or legal requirements without resorting to fully "closing source"
@@ -173,12 +200,18 @@ Note:
 
 ===
 
-## Negotiation, Funding and anti-competitive Behavior
+## Negotiation, Funding and Anti-competitive Behavior
 <hr />
+<br />
+<br />
 
 FLOSS projects are often funded by a proprietary offering/service counterparts
+<br />
+<br />
 
 Intended to force a negotiation
+<br />
+<br />
 
 Aims to reduce/eliminate predatory commercial practices
 - Unless the Commons Clause code is a minor part of a larger software product, or
@@ -199,7 +232,7 @@ Note:
 
 ===
 
-## Is it better than AGPL and Creative Commons?
+## Is It better Than AGPL And Creative Commons?
 <hr />
 
 ### AGPL
@@ -231,7 +264,7 @@ Note:
 
 ===
 
-## Criticisms - From the FSF and OSI
+## Criticisms - From The FSF And OSI
 <hr />
 
 ### FSF
@@ -247,10 +280,10 @@ Applying the clause to an approved licence instantly renders it non-approved
 Redis just went proprietary
 
 Violates OSD Clauses
-  - 1
-  - 3
-  - 5
-  - 6
+  - 1 - Free Redistribution
+  - 3 - Derived Works
+  - 5 - No Discrimination Against Persons or Groups
+  - 6 - No Discrimination Against Fields of Endeavor
 
 Note:
 - FSF: “Commons Clause” is a nonfree license because it forbids selling copies of the program, and even running the program as part of implementing any commercial service
@@ -264,12 +297,20 @@ Note:
 
 ## Criticisms - Proprietary Software
 <hr />
+<br />
+<br />
 
 Turning open-source software into proprietary software?
+<br />
+<br />
 
 Seeks to hide a power imbalance ironically behind the guise of "open source sustainability"
+<br />
+<br />
 
 It's just not "open source"
+<br />
+<br />
 
 Note:
 - It really sucks when companies are using your work to make money for themselves. If a solution presents itself, it's tempting to jump at it. But the Commons Clause doesn't present a solution for supporting open-source software. It presents a framework for turning open-source software into proprietary software
@@ -278,10 +319,15 @@ Note:
 
 ===
 
-## Criticisms - Confusion About Support and Consulting
+## Criticisms - Confusion About Support And Consulting
 <hr />
+<br />
+<br />
 
 Can you host the licensed software for free and charge a fee for customer support or consulting
+<br />
+<br />
+
   - Some say "Yes"
   - Others "No"
 
@@ -296,14 +342,24 @@ Note:
 
 ## Other Criticisms
 <hr />
+<br />
+<br />
 
 It doesn't really solve the problem
+<br />
+<br />
 
 This trend could snowball (or has it already)
+<br />
+<br />
 
 Could reduce, and does restrict the reuse of a project
+<br />
+<br />
 
 Confusion caused by similarity in names
+<br />
+<br />
 
 Ambiguous definition of "substantial derivative"
 
@@ -325,12 +381,20 @@ This could lead to a confusing open source landscape, where multiple different l
 
 ## The Future...
 <hr />
+<br />
+<br />
 
 No further revisions in 2 years
+<br />
+<br />
 
 Reshaping the portfolio of freedoms
+<br />
+<br />
 
 Individual company license trend continues
+<br />
+<br />
 
 Note:
 - no further revisions in 2 years
@@ -340,12 +404,18 @@ Note:
 
 ===
 
-## Q&A and Discussion
+## Q&A And Discussion
 <hr />
+<br />
+<br />
 
 Comments!
+<br />
+<br />
 
 Questions?
+<br />
+<br />
 
 Alternatives?
 
@@ -367,6 +437,8 @@ https://en.wikipedia.org/wiki/Commons
 https://en.wikipedia.org/wiki/Source-available_software
 
 https://commonsclause.com/
+
+https://opensource.org/osd-annotated
 
 https://directory.fsf.org/wiki/License:Commons-Clause
 
