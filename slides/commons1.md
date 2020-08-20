@@ -1,16 +1,20 @@
 
-## Free Software, Open Source, Creative Commons and the Digital Commons
+## F/LOSS, Creative Commons and the Digital Commons
 <hr />
 
-### Pioneers
-- Free Software movement
-- Open Source
-- Wikipedia
-- Open Hardware
+### Pioneers Of Digital Commons
 
-### Modern Interpritation
+Free Software movement
 
-- The Internet
+Open Source
+
+Wikipedia
+
+Open Hardware
+
+### A Growing Modern Interpretation
+
+The Internet
 
 Note:
 - One of the first examples of digital commons is the Free Software movement, founded in the 1980s
@@ -26,24 +30,32 @@ Note:
 
 ===
 
-## Tragedy of digital commons and Commoning as a process
+## Tragedy of the Digital Commons
 <hr />
 
 ### The Tragedies
-- exploiting common resources
-- pollution of Infosphere
-- corruption of communication
+Exploiting common resources
 
-### The Process
+Pollution of Infosphere
 
-- process of coming together to manage such resources
-- Commoning is a learning process
-- failure of some commons might result in the creation of new ones
+Corruption of communication
+
+Anti-Competitive Behavior
+
+### "Commoning" As A Process To Stop The Tragedy
+
+Process of coming together to manage such resources
+
+Commoning is a learning process
+
+Failure of some commons might result in the creation of new ones
 
 Note:
+- it would'nt be a talk about the commons without a "Tragedy of" slide
 - the average user of the information technology (Infosphere) behaves in the way Hardin's herdsmen behave by exploiting common resources until they no longer can recover, meaning that users do not pay attention to the consequences of their behaviour
 - This brings excess information that leads to corruption of communication and information overload. An example of this is spam, which takes up to 45% of email traffic.
 - artificial agents, like worms, that can self-replicate and spread
+- anti-competitive behavior
 <hr />
 - commoning: coming together to manage such resources, by the community who governs it
 - commoning can be temporary and this does not entail a problem or a failure.
@@ -52,13 +64,15 @@ Note:
 
 ===
 
-## Sidenote - Source-available software
+## Sidenote - Source-available Software
 <hr />
 
 ### Source-available model
-- The "One (or two) Freedoms"
-- Often included in distributions or avaliable on request
-- proprietary compatibility
+The "One (or two) Freedoms"
+
+Often included in distributions or avaliable on request
+
+Proprietary compatibility
 
 ### Examples
 - TrueCrypt License
@@ -102,12 +116,14 @@ Note:
 
 ===
 
-## Commons Clause - how did it happen?
+## Commons Clause - How Did It Happen?
 <hr />
 
-- CEOs and Chief Counsils meet
-- Commision Heather J. Meeker to author the licence
-- Redis Labs
+CEOs and Chief Counsils meet
+
+Commision Heather J. Meeker to author the licence
+
+Redis Labs
 
 Note:
 - Who wants this? in 2018 CEOs and chief counsels of two dozen at-scale open-source companies, some of them public, meet to talk about what to do about Amazon
@@ -117,13 +133,16 @@ Note:
 
 ===
 
-## why is it good? - Appeal to Authority
+## An appeal to Authority
 <hr />
 
-- Heather J. Meeker is a respected attorney
-- with a History in open source software licensing and strategy
-- source licenses provide inherent authority
-- drafted in the spirit of a copyleft licence
+Heather J. Meeker is a respected attorney
+
+With a History in open source software licensing and strategy
+
+Source licenses provide inherent authority
+
+Drafted in the spirit of a copyleft licence
 
 
 
@@ -135,13 +154,16 @@ Note:
 
 ===
 
-## why is it good? - not proprietry
+## At Least It's Not Proprietary
 <hr />
 
-- not intended to replace licenses
-- Fulfils urgent business requirements without resorting to fully "closing source"
-- Better than nothing
-- As good as we can do
+Not intended to replace licenses
+
+Fulfils urgent business requirements without resorting to fully "closing source"
+
+Better than nothing
+
+As good as we can do for now
 
 Note:
 - This Clause is not intended to replace licenses of existing open source projects in general, but to be used by specific projects to satisfy urgent business or legal requirements without resorting to fully "closing source"
@@ -151,14 +173,16 @@ Note:
 
 ===
 
-## why is it good? - negotiation, funding and anticompetitive behaviour
+## Negotiation, Funding and anti-competitive Behavior
 <hr />
 
-- FLOSS projects are often funded by a proprietary offering/service counterparts
-- force a negotiation
-- reduce/eliminate predatory commercial practices
-- unless the Commons Clause code is a minor part of a larger software product
-- or you provide maintenance, support or professional services
+FLOSS projects are often funded by a proprietary offering/service counterparts
+
+Intended to force a negotiation
+
+Aims to reduce/eliminate predatory commercial practices
+- Unless the Commons Clause code is a minor part of a larger software product, or
+- You provide maintenance, support or professional services
 
 Note:
 - Wang: "Open-source software projects are mainly funded by a proprietary offering/service counterparts. Anything to help this layer monetize is good -- the fate of the OSS is directly funded by it.
@@ -175,46 +199,64 @@ Note:
 
 ===
 
-## better than AGPL and Creative Commons?
+## Is it better than AGPL and Creative Commons?
 <hr />
 
 ### AGPL
-- does not prevent cloud infrastructure providers from engaging in anticompetitive behavior
-- software patents
-- ambiguity of the "network clause"
+
+AGPL does not prevent cloud infrastructure providers from engaging in anticompetitive behavior
+
+Ambiguity of the "network clause" in AGPL
+
+Improvements often fall outside of the “Program”
+
+Software patents
+
+AGPL does not focus on the rights of developers
 
 ### Creative Commons
 
-- not software licenses
-- one narrow kind of commercial use
-- rights of developers
+Not software licenses
+
+One narrow kind of commercial use
 
 Note:
 - AGPL makes it inconvenient but does not prevent cloud infrastructure providers from engaging in the abusive behavior described above. It simply says that they must release any modifications they make while engaging in such behavior.
-- AGPL contains language about software patents that is unnecessary and disliked by a number of enterprises
 - may be preferable over the AGPL because the AGPL cannot prevent cloud service providers from selling functionality of the software
 - AGPL doesn't go far enough to preserve the rights of developers. If cloud-based software is licensed under AGPL, often, much of the value for improvements to the cloud-based software arguably falls outside of the “Program”
 - ambiguity of what is covered by AGPL’s network clause (“interacting ..remotely through a computer network”) means that many potential users are more confused and cautious about using AGPL
+- AGPL contains language about software patents that is unnecessary and disliked by a number of enterprises
 <hr />
 - CC-NC is a similar idea, but CC licenses are not software licenses. we only wanted to restrict one narrow kind of commercial use
 
 ===
 
-## Criticisms - FSF and OSI
+## Criticisms - From the FSF and OSI
 <hr />
 
 ### FSF
-- nonfree - forbids selling
+
+Nonfree - forbids selling - simple
 
 ### OSI
-- does not satisfy the OSI Open Source Definition
-- Applying the clause to an approved licence instantly renders it non-approved
-- Redis just went proprietary
+
+Does not satisfy the OSI Open Source Definition
+
+Applying the clause to an approved licence instantly renders it non-approved
+
+Redis just went proprietary
+
+Violates OSD Clauses
+  - 1
+  - 3
+  - 5
+  - 6
 
 Note:
 - FSF: “Commons Clause” is a nonfree license because it forbids selling copies of the program, and even running the program as part of implementing any commercial service
 <hr />
-- changes an OSI-approved license into a license that does not satisfy the OSI Open Source Definition: "Adding a significant clause to an existing license that has been approved by OSI instantly renders it non-approved, and the text of the so-called 'Commons Clause,' which actually fences off the commons
+- changes an OSI-approved license into a license that does not satisfy the OSI Open Source Definition: "Adding a significant clause to an existing license that has been approved by OSI instantly renders it non-approved
+- the text of the so-called 'Commons Clause,' which actually fences off the commons
 - is clearly intended to violate clause 1 of the Open Source Definition and probably also violates clauses 3, 5 and 6. As such adding this clause to a license would be a major abrogation of software freedom removing essential rights from any affected open-source community."
 - Simon Phipps, president of the Open Source Initiative (OSI): "Redis just went proprietary, which sucks. No, this is not just 'a limitation concerning fair use,' it is an abrogation of software freedom."
 
@@ -223,9 +265,11 @@ Note:
 ## Criticisms - Proprietary Software
 <hr />
 
-- turning open-source software into proprietary software?
-- seeks to hide a power imbalance ironically behind the guise of "open source sustainability"
-- It's just not "open source"
+Turning open-source software into proprietary software?
+
+Seeks to hide a power imbalance ironically behind the guise of "open source sustainability"
+
+It's just not "open source"
 
 Note:
 - It really sucks when companies are using your work to make money for themselves. If a solution presents itself, it's tempting to jump at it. But the Commons Clause doesn't present a solution for supporting open-source software. It presents a framework for turning open-source software into proprietary software
@@ -234,42 +278,44 @@ Note:
 
 ===
 
-## Criticisms - confusion about support or consulting
+## Criticisms - Confusion About Support and Consulting
 <hr />
 
-- Can you host the licensed software for free and charge a fee for customer support or consulting
+Can you host the licensed software for free and charge a fee for customer support or consulting
   - Some say "Yes"
   - Others "No"
 
 
 Note:
-- "This license forbids you from selling the software. It also states you may not host or offer consulting or support services as "a product or service whose value derives, entirely or substantially, from the functionality of the software"
-- A plain reading of this provision suggests that a cloud service provider cannot host the licensed software for free and charge a fee for customer support or consulting relating to the software’s functionality (e.g., how to use the software). The Commons Clause documentation refers to a discussion board suggesting that consulting may be permitted, but the language of the clause and the contents of that online discussion appear to suggest otherwise
+- A plain reading of this provision suggests that a cloud service provider cannot host the licensed software for free and charge a fee for customer support or consulting relating to the software’s functionality (e.g., how to use the software).
+- The Commons Clause documentation refers to a discussion board suggesting that consulting may be permitted, but the language of the clause appear to suggest otherwise
 - IP Kitten: prohibits hosting or offering consulting or support services as "a product or service whose value derives, entirely or substantially, from the functionality of the software"
-
-
 - Unfortunate that updates have not been made
 
 ===
 
-## other criticisms
+## Other Criticisms
 <hr />
 
-- doesn't really solve the problem
-- the trend could snowball
-- could reduce, and does restrict the reuse of a project
-- confusion from similarity in names
-- substantial derivative definition
+It doesn't really solve the problem
+
+This trend could snowball (or has it already)
+
+Could reduce, and does restrict the reuse of a project
+
+Confusion caused by similarity in names
+
+Ambiguous definition of "substantial derivative"
 
 Note:
-- Karen Sandler: "highlights the fundamental problems connected to the wide adoption of non-copyleft licenses, but I think it doesn't really solve the problem that it seeks to solve. What we really need is strong copyleft licenses where the copyrights are held diversely by individuals
-- "it would be a very disturbing development if the release of the Commons Clause inspired more people to come up with their own license 'extensions', especially if they are also not compliant with the Open Software Definition and the Four Freedoms." -- although this already happens, I think some standardisation (like CC) could be good
+- Karen Sandler: "highlights the fundamental problems connected to the wide adoption of non-copyleft licenses, but I think it doesn't really solve the problem that it seeks to solve. What we really need is strong copyleft licenses where the copyrights are held diversely by individuals"
+- "it would be a very disturbing development if the release of the Commons Clause inspired more people to come up with their own license 'extensions', especially if they are also not compliant with the Open Software Definition and the Four Freedoms."
 <hr />
-- "a useful addition to the licensing menu, but not one that will be appropriate for use in all situations. ... Developers should be clear in advance what their goals are when they're put their fingers to their keys. Commons Clause-licensed software is not likely to get the same amount of reuse as might otherwise be the case."
-- Updegrove: "In one way, that's in the spirit of a copyleft license (i.e., a prohibition on commercial interests taking advantage of a programmer's willingness to make her code available for free), but it also violates the 'Four Freedoms' of free and open-source software as well as the Open Source Definition by placing restrictions on reuse, among other issues."
+- Reuse: "Developers should be clear in advance what their goals are when they're put their fingers to their keys. Commons Clause-licensed software is not likely to get the same amount of reuse as might otherwise be the case."
+- Updegrove: "In one way, that's in the spirit of a copyleft license, but it also violates the 'Four Freedoms' of free and open-source software as well as the Open Source Definition by placing restrictions on reuse, among other issues."
 <hr />
 - A developer may incorrectly assume by the similarity in their names that these licenses can be interpreted exactly the same as the Apache 2.0 license
-This could lead to a confusing open source landscape, where multiple different licenses have similar names
+This could lead to a confusing open source landscape, where multiple different licenses have similar names -- but I'd argue that CC does not suffer this -- and this already happens, I think some standardization (like CC) could be good
 - IP kitten: Combining a known and trusted open source license with a proprietary (i.e., non-open source) rider  with unknown implications is set to cause user confusion
 <hr />
 - vague substantial derivative
@@ -277,12 +323,14 @@ This could lead to a confusing open source landscape, where multiple different l
 
 ===
 
-## The future
+## The Future...
 <hr />
 
-- no further revisions in 2 years
-- reshaping the portfolio of freedoms
-- individual company licenses
+No further revisions in 2 years
+
+Reshaping the portfolio of freedoms
+
+Individual company license trend continues
 
 Note:
 - no further revisions in 2 years
@@ -295,12 +343,40 @@ Note:
 ## Q&A and Discussion
 <hr />
 
-- Comments!
-- Questions?
-- Alternatives?
+Comments!
+
+Questions?
+
+Alternatives?
+
 
 Note:
-- thanks
+- references, thanks
+- questions or comments
 - SFD next month, no meetup
 - date:
+
+
+===
+
+## References:
+<hr />
+
+https://en.wikipedia.org/wiki/Commons
+
+https://en.wikipedia.org/wiki/Source-available_software
+
+https://commonsclause.com/
+
+https://directory.fsf.org/wiki/License:Commons-Clause
+
+https://www.zdnet.com/article/open-source-licensing-war-commons-clause/
+
+https://www.finnegan.com/en/insights/articles/why-open-source-licenses-with-a-commons-clause-may-become-less-common.html
+
+https://techcrunch.com/2018/09/07/commons-clause-stops-open-source-abuse/
+
+http://ipkitten.blogspot.com/2019/09/commons-clause-in-open-source-licences.html
+
+https://redislabs.com/blog/redis-labs-modules-license-changes
 
